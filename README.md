@@ -1,2 +1,2 @@
-# karanprojects-solutions-java
-karan's projects solved in java
+# karanprojects-solutions
+karan's projects solved
